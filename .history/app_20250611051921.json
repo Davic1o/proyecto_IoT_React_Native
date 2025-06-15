@@ -21,8 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.davicio.proyecto_IoT",
-      "usesCleartextTraffic": true
+      "package": "com.davicio.proyecto_IoT"
     },
     "web": {
       "favicon": "./assets/favicon.png"

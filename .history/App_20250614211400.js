@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, Alert } from 'react-native';
 import styles from './Styles/styles';
-import ControlesMovimiento from './Components/ControlesMovimiento';
+import ControlesMovimiento from './components/ControlesMovimiento';
 
 const ESP32_IP = 'http://192.168.157.176/comando';
 
